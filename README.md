@@ -1,4 +1,4 @@
-为了帮助你更好地规划 Python 学习和代码管理，Grok为我设计一个清晰的文件夹结构和学习规则，兼顾学习的持续性和代码的规范性。以下是一个详细的计划，分为**文件夹结构**和**学习规则**两部分。
+为了帮助我更好地规划 Python 学习和代码管理，Grok为我设计一个清晰的文件夹结构和学习规则，兼顾学习的持续性和代码的规范性。以下是一个详细的计划，分为**文件夹结构**和**学习规则**两部分。
 
 ---
 
@@ -115,4 +115,14 @@ MyPythonLearning/
 ### 四、创建项目文件夹
 ```
 python creat_foloders_202506.py
+```
+
+### 
+``` git
+git init
+git add *
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/your username/MyPythonLearning.git
+git push -u origin main
 ```
